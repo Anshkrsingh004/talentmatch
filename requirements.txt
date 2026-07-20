@@ -6,6 +6,7 @@ torch>=2.2.0
 # --- Core RAG stack ---
 sentence-transformers>=3.0.0     # local embeddings (free, offline)
 chromadb>=0.5.0                  # local vector store
+pysqlite3-binary>=0.5.0; sys_platform == "linux"   # modern sqlite for ChromaDB on cloud hosts
 groq>=0.11.0                     # LLM generation (free API)
 python-dotenv>=1.0.0             # load API key from .env
 
