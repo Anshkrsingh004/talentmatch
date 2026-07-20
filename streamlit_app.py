@@ -17,15 +17,25 @@ Run with:  streamlit run streamlit_app.py
 from __future__ import annotations
 
 import html
+import os
 import tempfile
 from pathlib import Path
 
 import plotly.graph_objects as go
 import streamlit as st
 
-from app.config import BASE_DIR, GROQ_API_KEY, GROQ_MODEL, TOP_K
-from app.pipeline import analyze_resume_against_jd
-from app.vectorstore import VectorStore
+# On Streamlit Community Cloud there is no .env file; the Groq key is provided via
+# the app's "Secrets". Bridge those into environment variables BEFORE importing
+# app.config (which reads them with os.getenv). Harmless when run locally.
+try:
+    for _k, _v in st.secrets.items():
+        os.environ.setdefault(_k, str(_v))
+except Exception:  # noqa: BLE001 - no secrets configured (local run) -> use .env
+    pass
+
+from app.config import BASE_DIR, GROQ_API_KEY, GROQ_MODEL, TOP_K  # noqa: E402
+from app.pipeline import analyze_resume_against_jd  # noqa: E402
+from app.vectorstore import VectorStore  # noqa: E402
 
 st.set_page_config(page_title="TalentMatch", page_icon="🎯", layout="wide")
 
