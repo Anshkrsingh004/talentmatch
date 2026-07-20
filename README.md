@@ -1,8 +1,14 @@
 # TalentMatch 🎯
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://talentmatch-agrtolrtbdr9d7dpjctshs.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.12-3776ab?logo=python&logoColor=white)](https://www.python.org/)
+[![Powered by Groq](https://img.shields.io/badge/LLM-Groq%20Llama%203.3-f55036)](https://groq.com/)
+
 A **Retrieval-Augmented Generation (RAG)** system that matches a resume against a job
 description — retrieving the most relevant experience, scoring the fit, and explaining
 skill gaps.
+
+**🔗 Live demo:** https://talentmatch-agrtolrtbdr9d7dpjctshs.streamlit.app/
 
 Built to be **100% free**: local embeddings + local vector store + a free LLM API.
 
@@ -70,7 +76,7 @@ Built checkpoint by checkpoint:
 - [x] **CP5** — End-to-end CLI MVP
 - [x] **CP6** — Streamlit UI
 - [x] **CP7** — Hybrid search + reranking + evaluation
-- [ ] **CP8** — Deploy + polish
+- [x] **CP8** — Deploy + polish
 
 ## 📊 Evaluation results
 
