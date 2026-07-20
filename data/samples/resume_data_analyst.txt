@@ -1,0 +1,26 @@
+SNEHA REDDY
+Hyderabad, India | sneha.reddy@email.com | github.com/snehar
+
+SUMMARY
+Data analyst who turns messy data into clear decisions. Experienced with SQL, Python,
+and building dashboards that stakeholders actually use.
+
+SKILLS
+Analysis: SQL, Python (pandas, NumPy), Excel (advanced), statistics
+Visualization: Tableau, Power BI, matplotlib, seaborn
+Data: PostgreSQL, BigQuery, data cleaning, ETL basics
+Other: A/B testing, Git, Jupyter
+
+EXPERIENCE
+Data Analyst, MarketPulse Analytics (2022 - present)
+- Wrote complex SQL queries across PostgreSQL and BigQuery to power weekly KPI reports.
+- Built interactive Tableau dashboards used by the sales team to track pipeline health.
+- Ran A/B tests on pricing experiments and quantified a 12% lift in conversion.
+- Automated a recurring Excel report with a Python (pandas) script, saving 5 hours a week.
+
+PROJECTS
+- Customer churn analysis in Python using scikit-learn; identified top 3 churn drivers.
+- Public COVID data dashboard in Power BI shared on LinkedIn.
+
+ACHIEVEMENTS
+- Winner, university data-analytics case competition 2021.

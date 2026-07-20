@@ -1,0 +1,21 @@
+# --- PyTorch (CPU build) ---
+# Pulls the smaller CPU wheels so cloud hosts don't download the ~2.5GB CUDA build.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.2.0
+
+# --- Core RAG stack ---
+sentence-transformers>=3.0.0     # local embeddings (free, offline)
+chromadb>=0.5.0                  # local vector store
+groq>=0.11.0                     # LLM generation (free API)
+python-dotenv>=1.0.0             # load API key from .env
+
+# --- Document loading ---
+pypdf>=4.0.0                     # PDF text extraction
+python-docx>=1.1.0               # DOCX text extraction
+
+# --- UI (CP6 / CP6.5) ---
+streamlit>=1.37.0
+plotly>=5.24.0                   # speedometer gauge + coverage charts
+
+# --- Standout layer (CP7) ---
+rank-bm25>=0.2.2                 # keyword/BM25 retrieval for hybrid search

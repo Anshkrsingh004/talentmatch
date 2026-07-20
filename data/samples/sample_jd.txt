@@ -1,0 +1,33 @@
+Job Title: Junior Backend Engineer
+Company: Acme Cloud Technologies
+Location: Bengaluru (Hybrid)
+
+About the role:
+We are looking for a Junior Backend Engineer to join our platform team. You will help
+design, build, and maintain the APIs and services that power our SaaS product. This is a
+great role for a recent graduate who loves building reliable backend systems.
+
+Responsibilities:
+- Design and develop RESTful APIs using Python (FastAPI or Flask).
+- Write clean, well-tested code and participate in code reviews.
+- Work with relational databases (PostgreSQL) and write efficient SQL queries.
+- Containerize services using Docker and help with CI/CD pipelines.
+- Collaborate with frontend and product teams in an Agile environment.
+
+Required qualifications:
+- Bachelor's degree in Computer Science or related field.
+- Strong programming skills in Python.
+- Understanding of REST APIs, HTTP, and web fundamentals.
+- Experience with SQL and relational databases.
+- Familiarity with Git and version control workflows.
+- Good understanding of data structures and algorithms.
+
+Nice to have:
+- Experience with Docker and Kubernetes.
+- Exposure to cloud platforms (AWS, GCP, or Azure).
+- Knowledge of CI/CD tools (GitHub Actions, Jenkins).
+- Experience writing automated tests (pytest).
+
+What we offer:
+- Mentorship from senior engineers.
+- Competitive salary and learning budget.

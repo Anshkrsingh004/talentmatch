@@ -1,0 +1,28 @@
+PRIYA NAIR
+Chennai, India | priya.nair@email.com | github.com/priyanair
+
+SUMMARY
+Frontend engineer focused on building accessible, performant web interfaces with React
+and TypeScript. Strong eye for design and UX.
+
+SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frameworks: React, Next.js, Redux, Tailwind CSS
+Tooling: Vite, Webpack, Jest, React Testing Library, Storybook
+Design: Figma, responsive design, accessibility (WCAG)
+Other: REST APIs, GraphQL, Git
+
+EXPERIENCE
+Frontend Developer, PixelForge (2022 - present)
+- Rebuilt the marketing site as a Next.js single page application, improving Lighthouse
+  performance score from 62 to 95.
+- Implemented a reusable component library in React + TypeScript documented in Storybook.
+- Added end-to-end and unit tests with Jest and React Testing Library, reaching 85% coverage.
+- Collaborated with designers in Figma to ship pixel-perfect, accessible UI.
+
+PROJECTS
+- Personal portfolio built with Next.js and Tailwind CSS, deployed on Vercel.
+- Open-source React date-picker component with 300+ GitHub stars.
+
+ACHIEVEMENTS
+- Speaker at a local React meetup on web accessibility.

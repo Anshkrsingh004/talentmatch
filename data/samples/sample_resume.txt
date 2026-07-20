@@ -1,0 +1,40 @@
+ANANYA SHARMA
+Bengaluru, India | ananya.sharma@email.com | linkedin.com/in/ananyasharma | github.com/ananyas
+
+SUMMARY
+Final-year Computer Science undergraduate with hands-on experience building web
+applications and data-driven projects. Comfortable with Python, JavaScript, and SQL.
+Seeking a software engineering role where I can contribute to backend systems.
+
+EDUCATION
+B.Tech in Computer Science, PES University, Bengaluru
+2021 - 2025 | CGPA: 8.6/10
+Relevant coursework: Data Structures, Algorithms, Operating Systems, DBMS,
+Computer Networks, Machine Learning.
+
+SKILLS
+Languages: Python, JavaScript, Java, SQL, C++
+Web: React, Node.js, Express, HTML, CSS, REST APIs
+Databases: PostgreSQL, MongoDB, MySQL
+Tools: Git, Docker (basic), Linux, VS Code, Postman
+Concepts: OOP, Data Structures, Algorithms, Agile
+
+EXPERIENCE
+Software Engineering Intern, Freshworks (Summer 2024)
+- Built internal REST APIs in Python (Flask) to automate report generation, reducing
+  manual effort by ~6 hours per week.
+- Wrote unit tests with pytest, improving code coverage of the module from 40% to 78%.
+- Collaborated with a team of 5 using Git and Agile sprints.
+
+PROJECTS
+StudyBuddy - Collaborative notes web app
+- Full-stack app using React, Node.js, and MongoDB where students share and rate notes.
+- Implemented JWT-based authentication and a search feature over 2000+ documents.
+
+Movie Recommender
+- Built a content-based recommender in Python using scikit-learn and pandas on the
+  MovieLens dataset; deployed a simple Flask demo.
+
+ACHIEVEMENTS
+- Finalist, Smart India Hackathon 2023.
+- Solved 400+ problems on LeetCode.

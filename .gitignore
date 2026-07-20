@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Vector store data (regenerated on ingest)
+data/chroma_db/
+
+# User-uploaded sample docs (keep the folders, ignore contents)
+data/resumes/*
+data/job_descriptions/*
+!data/resumes/.gitkeep
+!data/job_descriptions/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local tooling config
+.claude/

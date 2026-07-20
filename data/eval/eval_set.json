@@ -1,0 +1,18 @@
+[
+  {"query": "container orchestration platform for microservices", "gold": "Kubernetes", "source": "resume_devops.txt"},
+  {"query": "provision cloud infrastructure as code", "gold": "Terraform", "source": "resume_devops.txt"},
+  {"query": "CI/CD deployment pipeline automation", "gold": "CI/CD", "source": "resume_devops.txt"},
+  {"query": "monitoring and observability dashboards", "gold": "Grafana", "source": "resume_devops.txt"},
+  {"query": "AWS cloud certification", "gold": "AWS Certified", "source": "resume_devops.txt"},
+  {"query": "building interactive data dashboards for stakeholders", "gold": "Tableau", "source": "resume_data_analyst.txt"},
+  {"query": "writing complex SQL queries for reporting", "gold": "SQL queries", "source": "resume_data_analyst.txt"},
+  {"query": "A/B testing on pricing experiments", "gold": "A/B test", "source": "resume_data_analyst.txt"},
+  {"query": "customer churn analysis with machine learning", "gold": "churn", "source": "resume_data_analyst.txt"},
+  {"query": "React single page application performance", "gold": "single page application", "source": "resume_frontend.txt"},
+  {"query": "reusable component library in TypeScript", "gold": "TypeScript", "source": "resume_frontend.txt"},
+  {"query": "web accessibility and WCAG compliance", "gold": "accessibility", "source": "resume_frontend.txt"},
+  {"query": "designing REST APIs in Python", "gold": "REST APIs in Python", "source": "sample_resume.txt"},
+  {"query": "unit testing and code coverage with pytest", "gold": "pytest", "source": "sample_resume.txt"},
+  {"query": "content-based movie recommender system", "gold": "recommender", "source": "sample_resume.txt"},
+  {"query": "JWT authentication in a web application", "gold": "JWT", "source": "sample_resume.txt"}
+]

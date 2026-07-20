@@ -1,0 +1,29 @@
+RAHUL VERMA
+Pune, India | rahul.verma@email.com | github.com/rahulv
+
+SUMMARY
+DevOps and cloud engineer with 2 years of experience automating infrastructure and
+deployment pipelines. Passionate about reliability, containers, and infrastructure as code.
+
+SKILLS
+Cloud: AWS (EC2, S3, Lambda, EKS), GCP basics
+Containers: Docker, Kubernetes, Helm
+IaC: Terraform, Ansible
+CI/CD: GitHub Actions, Jenkins, GitLab CI
+Monitoring: Prometheus, Grafana, ELK stack
+Scripting: Python, Bash, Go (basic)
+
+EXPERIENCE
+DevOps Engineer, CloudNine Systems (2023 - present)
+- Migrated 15 microservices to Kubernetes (EKS), improving deployment frequency 3x.
+- Wrote Terraform modules to provision AWS infrastructure as code, cutting setup time
+  from days to under an hour.
+- Built CI/CD pipelines in GitHub Actions with automated tests and blue-green deploys.
+- Set up Prometheus and Grafana dashboards, reducing mean time to detection by 40%.
+
+PROJECTS
+- Self-healing infra demo using Kubernetes liveness probes and Helm charts.
+- Cost-optimization script in Python that rightsizes EC2 instances, saving ~20% monthly.
+
+ACHIEVEMENTS
+- AWS Certified Solutions Architect - Associate.
