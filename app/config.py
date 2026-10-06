@@ -36,7 +36,9 @@ TOP_K = 5               # number of chunks to retrieve per query
 
 # --- Generation (Groq) ---
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+# Note: Groq retired the Llama 3.x chat models on the free tier. gpt-oss-120b is
+# the current closest equivalent (large, high-quality, supports JSON mode).
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 
 def require_groq_key() -> str:

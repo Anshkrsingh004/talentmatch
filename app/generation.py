@@ -1,7 +1,7 @@
 """CP4 — Generation with Groq.
 
 Takes the job description + retrieved resume context and asks a Groq-hosted LLM
-(Llama 3.3 70B) for a structured match analysis. Uses JSON mode so the result is
+(gpt-oss-120b) for a structured match analysis. Uses JSON mode so the result is
 easy to render, and instructs the model to use ONLY the provided context to keep
 it grounded (no hallucinated skills).
 """
